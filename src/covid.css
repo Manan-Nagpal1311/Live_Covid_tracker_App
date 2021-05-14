@@ -1,0 +1,12 @@
+.card
+{
+    display: inline-block;
+    height:250px;
+    width: 250px;
+    background-color: bisque;
+    padding: 50px;
+    margin: 30px;
+}
+.card:hover{
+    font-size: x-large;
+}
